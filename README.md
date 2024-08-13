@@ -1,5 +1,6 @@
 
 
+
 In this projects a user can visit the websites, registers and login to the website. They can check all the products available for shopping, filter and search item based on different categories, and then add to cart. They can add multiple item to the cart and also plus or minus the quantity in the cart. Once the cart is updated, the user can proceed to checkout and click the credit card payment details to proceed. Once the payment is success the orders will be placed and users will be able to see the orders details in the orders section along with the shipping status of the product.
 
 The admin also plays an important role for this project as the admin is the one responsible for adding any product to the store, updating the items, removing the item from the store as well as managing the inventory. The admin can see all the product orders placed and also can mark them as shipped or delivered based on the conditions.
@@ -32,11 +33,14 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 3. Database:
  - MySql
-4.![Screenshot 2024-07-05 000847](https://github.com/user-attachments/assets/faa830ca-51e5-4067-b62d-22b0ec895661)
+ - 
+![Screenshot 2024-07-05 000847](https://github.com/user-attachments/assets/faa830ca-51e5-4067-b62d-22b0ec895661)
 
-5. ![Screenshot 2024-07-03 201557](https://github.com/user-attachments/assets/f8ac8670-5e3e-4ec5-b2e3-8c0491fc9afc)
+
+ ![Screenshot 2024-07-03 201557](https://github.com/user-attachments/assets/f8ac8670-5e3e-4ec5-b2e3-8c0491fc9afc)
 
 
+![Screenshot 2024-07-03 203600](https://github.com/user-attachments/assets/6ac9b0c4-dc3c-41c8-ba7e-7b8b092ea071)
 
 
 
